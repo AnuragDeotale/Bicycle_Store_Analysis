@@ -17,7 +17,8 @@ To Make a dashboard for a Bicycle Store that displays our key performance metric
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created and emrged tables according to need 
+- Created and emrged tables according to need  in MySQL and imported in Power BI .
+- Merge all tables into one dashboard and apply slicer to make dynamic .
 
 ## Dashboard
    ![Screenshot (495)](https://github.com/AnuragDeotale/Bicycle_Store_Analysis/blob/5aba334b03aad9f45248678c52c8e09e5af3dae3/Bicycle%20Share%20Analysis%20Dashboard.png)
